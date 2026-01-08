@@ -1,0 +1,396 @@
+{
+  "products": [
+    {
+      "name": "Samsung Galaxy S25 Ultra",
+      "sku": "samss25U",
+      "categoryId": "cat-1766885072749-2pvacfvia",
+      "brandId": "brand-1766885140182-8tkg8gh66",
+      "basePrice": 278000,
+      "discountPrice": 215000,
+      "stockQuantity": 6,
+      "lowStockThreshold": 3,
+      "status": "active",
+      "shortDescription": "Samsung S25 Ultra 256GB ",
+      "description": "Design & display\nPremium glass-and-metal build with IP68 dust/water resistance.\nLarge 6.8–inch QHD+ Dynamic AMOLED display (adaptive refresh up to 120 Hz) with excellent brightness, deep blacks, and very fine pixel density for sharp text and images.\nPerformance & battery\nTop-tier chipset (flagship-class SoC) and ample RAM for smooth multitasking and gaming.\nBattery capacity geared for all‑day use with fast wired charging, fast wireless charging, and reverse wireless charging.\nCameras\nAdvanced multi-camera system: high-resolution main sensor (large sensor for better low-light), ultra-wide lens, and telephoto periscope offering long-range optical zoom.\nStrong computational photography features — improved Night Mode, AI enhancements, and high-quality video recording (including stabilization and advanced codecs).\nSoftware & extras\nShips with One UI on top of Android, with customization, security updates, and Samsung ecosystem features (DeX, Samsung Wallet, S Pen support where applicable).\nStrong connectivity: 5G, Wi‑Fi 6/6E or newer, Bluetooth, NFC.\nWho it’s for\nUsers wanting the best Samsung flagship experience: top performance, exceptional display, long-range zoom photography, and premium build.",
+      "specifications": {
+        "Display": "6.8-inch QHD+ Dynamic AMOLED, up to 120 Hz adaptive refresh, HDR10+ support, very high peak brightness.",
+        "Chipset": "Snapdragon/Exynos-class chipset",
+        "RAM": "12 GB (configurable), possible higher variant",
+        "Storage": "256 GB / 512 GB / 1 TB UFS (no microSD).",
+        "Cameras": "Main: high-resolution large sensor (likely 50–200 MP class depending on model). Ultra-wide: ~12 MP. Telephoto: periscope telephoto with optical zoom (10x+ effective hybrid zoom). Additional telephoto/portrait sensor for depth/zoom. Video: up to 8K recording, advanced stabilization and HDR.",
+        "Battery & Chargin": "Battery: ~5,000 mAh. Fast wired charging (e.g., 45W class), fast wireless charging, reverse wireless charging.",
+        "OS": "Android with One UI"
+      },
+      "tags": [],
+      "isFeatured": true,
+      "images": [
+        {
+          "url": "https://imagedelivery.net/7D3NQGy_afPWwbfcO5Acjw/celltronics.lk/2025/01/Samsung-Galaxy-S25-Ultra.jpg/w=800,h=800,fit=crop",
+          "isMain": true,
+          "alt": "Samsung Galaxy S25 Ultra",
+          "order": 0
+        }
+      ],
+      "id": "prod-1766885376447-m1949x3ij",
+      "slug": "samsung-galaxy-s25-ultra",
+      "createdAt": "2025-12-28T01:29:36.447Z",
+      "updatedAt": "2025-12-28T02:00:13.135Z"
+    },
+    {
+      "name": "Apple iPhone 17 Pro",
+      "sku": "ipone17pro",
+      "categoryId": "cat-1766885072749-2pvacfvia",
+      "brandId": "brand-2",
+      "basePrice": 283000,
+      "discountPrice": null,
+      "stockQuantity": 10,
+      "lowStockThreshold": 5,
+      "status": "active",
+      "shortDescription": "Apple iPhone 17 Pro",
+      "description": "Apple iPhone 17 Pro",
+      "specifications": {
+        "Chipset": "A19Pro",
+        "RAM": "8GB",
+        "Storage": "256GB",
+        "OS": "ios 26.2"
+      },
+      "tags": [
+        "mobile phone"
+      ],
+      "isFeatured": false,
+      "images": [
+        {
+          "url": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/iphone-17-pro-witb-silver-202509_FMT_WHH?wid=560&hei=744&fmt=jpeg&qlt=90&.v=NXh3OEZPWW1IYUpzT1hwc0dnVnRpN2xjb1BZUGlLdTFQY2JON3p2THhKQkRTSmgzaUlOemtOUUdMUks5SUpNNTk1ZWt1OVVsVGluOVVGbTJNUkdoeGJRN3lOQ3ExU09KSFlRbElPWFhiUWhpMEE2OXU2czQrZ21Ba2RWMjR4cDc",
+          "isMain": true,
+          "alt": "Apple iPhone 17 Pro",
+          "order": 0
+        }
+      ],
+      "id": "prod-1766886214163-uspkqjm5u",
+      "slug": "apple-iphone-17-pro",
+      "createdAt": "2025-12-28T01:43:34.163Z",
+      "updatedAt": "2025-12-28T02:02:05.893Z"
+    },
+    {
+      "name": "iPhone 16 Pro",
+      "sku": "iphone16Prodesert",
+      "categoryId": "cat-1766885072749-2pvacfvia",
+      "brandId": "brand-2",
+      "basePrice": 306000,
+      "discountPrice": 288000,
+      "stockQuantity": 3,
+      "lowStockThreshold": 5,
+      "status": "active",
+      "shortDescription": "Applle iPhone 16 Pro ",
+      "description": "16 Pro Desert Titanium",
+      "specifications": {
+        "Processor": "A18Pro Bionic",
+        "RAM": "8GB RAM",
+        "Storage": "256GB",
+        "OS": "ios 26.2"
+      },
+      "tags": [
+        "mobile phone"
+      ],
+      "isFeatured": true,
+      "images": [
+        {
+          "url": "https://www.apple.com/newsroom/images/2024/09/apple-debuts-iphone-16-pro-and-iphone-16-pro-max/article/Apple-iPhone-16-Pro-hero-geo-240909_inline.jpg.large.jpg",
+          "isMain": true,
+          "alt": "iPhone 16 Pro",
+          "order": 0
+        }
+      ],
+      "id": "prod-1766886669289-05tdsvtng",
+      "slug": "iphone-16-pro",
+      "createdAt": "2025-12-28T01:51:09.289Z",
+      "updatedAt": "2025-12-28T02:02:51.332Z"
+    },
+    {
+      "name": "RTX 5060ti",
+      "sku": "adasd",
+      "categoryId": "cat-3",
+      "brandId": "brand-1",
+      "basePrice": 500000,
+      "discountPrice": null,
+      "stockQuantity": 5,
+      "lowStockThreshold": 1,
+      "status": "active",
+      "shortDescription": "GPU",
+      "description": "GPU",
+      "specifications": {
+        "Processor": "RTX 5060",
+        "VRAM": "8GB"
+      },
+      "tags": [
+        "graphics card"
+      ],
+      "isFeatured": true,
+      "images": [
+        {
+          "url": "https://www.redlinetech.lk/wp-content/uploads/2025/06/Gigabyte-GeForce-RTX-5060-Ti-Gaming-OC-8G-sri-lanka.webp",
+          "isMain": true,
+          "alt": "RTX 5060ti",
+          "order": 0
+        }
+      ],
+      "id": "prod-1766892571045-yvwvo3wan",
+      "slug": "rtx-5060ti",
+      "createdAt": "2025-12-28T03:29:31.045Z",
+      "updatedAt": "2025-12-28T03:29:31.045Z"
+    }
+  ],
+  "categories": [
+    {
+      "id": "cat-1",
+      "name": "Laptops",
+      "slug": "laptops",
+      "description": "Gaming, Business, and Everyday Laptops",
+      "imageUrl": "/categories/laptops.jpg",
+      "parentId": null,
+      "status": "active",
+      "productCount": 45,
+      "createdAt": "2024-01-01T00:00:00Z",
+      "updatedAt": "2024-01-01T00:00:00Z"
+    },
+    {
+      "id": "cat-2",
+      "name": "Desktops",
+      "slug": "desktops",
+      "description": "Pre-built and Custom Desktop PCs",
+      "imageUrl": "/categories/desktops.jpg",
+      "parentId": null,
+      "status": "active",
+      "productCount": 30,
+      "createdAt": "2024-01-01T00:00:00Z",
+      "updatedAt": "2024-01-01T00:00:00Z"
+    },
+    {
+      "id": "cat-3",
+      "name": "Graphics Cards",
+      "slug": "graphics-cards",
+      "description": "NVIDIA and AMD Graphics Cards",
+      "imageUrl": "/categories/graphics-cards.jpg",
+      "parentId": null,
+      "status": "active",
+      "productCount": 25,
+      "createdAt": "2024-01-01T00:00:00Z",
+      "updatedAt": "2024-01-01T00:00:00Z"
+    },
+    {
+      "id": "cat-4",
+      "name": "Processors",
+      "slug": "processors",
+      "description": "Intel and AMD Processors",
+      "imageUrl": "/categories/processors.jpg",
+      "parentId": null,
+      "status": "active",
+      "productCount": 20,
+      "createdAt": "2024-01-01T00:00:00Z",
+      "updatedAt": "2024-01-01T00:00:00Z"
+    },
+    {
+      "id": "cat-5",
+      "name": "Monitors",
+      "slug": "monitors",
+      "description": "Gaming and Professional Monitors",
+      "imageUrl": "/categories/monitors.jpg",
+      "parentId": null,
+      "status": "active",
+      "productCount": 35,
+      "createdAt": "2024-01-01T00:00:00Z",
+      "updatedAt": "2024-01-01T00:00:00Z"
+    },
+    {
+      "id": "cat-6",
+      "name": "Storage",
+      "slug": "storage",
+      "description": "SSDs, HDDs, and External Drives",
+      "imageUrl": "/categories/storage.jpg",
+      "parentId": null,
+      "status": "active",
+      "productCount": 40,
+      "createdAt": "2024-01-01T00:00:00Z",
+      "updatedAt": "2024-01-01T00:00:00Z"
+    },
+    {
+      "id": "cat-7",
+      "name": "Peripherals",
+      "slug": "peripherals",
+      "description": "Keyboards, Mice, and Accessories",
+      "imageUrl": "/categories/peripherals.jpg",
+      "parentId": null,
+      "status": "active",
+      "productCount": 60,
+      "createdAt": "2024-01-01T00:00:00Z",
+      "updatedAt": "2024-01-01T00:00:00Z"
+    },
+    {
+      "id": "cat-8",
+      "name": "Networking",
+      "slug": "networking",
+      "description": "Routers, Switches, and Network Equipment",
+      "imageUrl": "/categories/networking.jpg",
+      "parentId": null,
+      "status": "active",
+      "productCount": 25,
+      "createdAt": "2024-01-01T00:00:00Z",
+      "updatedAt": "2024-01-01T00:00:00Z"
+    },
+    {
+      "name": "Mobile",
+      "description": "Mobile Phones",
+      "displayOrder": 1,
+      "status": "active",
+      "id": "cat-1766885072749-2pvacfvia",
+      "slug": "mobile",
+      "productCount": 0,
+      "createdAt": "2025-12-28T01:24:32.749Z",
+      "updatedAt": "2025-12-28T01:24:42.616Z"
+    }
+  ],
+  "brands": [
+    {
+      "id": "brand-1",
+      "name": "ASUS",
+      "slug": "asus",
+      "logoUrl": "/brands/asus.png",
+      "description": "In Search of Incredible",
+      "websiteUrl": "https://www.asus.com",
+      "status": "active",
+      "productCount": 45,
+      "createdAt": "2024-01-01T00:00:00Z",
+      "updatedAt": "2024-01-01T00:00:00Z"
+    },
+    {
+      "id": "brand-2",
+      "name": "Apple",
+      "slug": "apple",
+      "logoUrl": "/brands/apple.png",
+      "description": "Think Different",
+      "websiteUrl": "https://www.apple.com",
+      "status": "active",
+      "productCount": 20,
+      "createdAt": "2024-01-01T00:00:00Z",
+      "updatedAt": "2024-01-01T00:00:00Z"
+    },
+    {
+      "id": "brand-3",
+      "name": "Dell",
+      "slug": "dell",
+      "logoUrl": "/brands/dell.png",
+      "description": "Dell Technologies",
+      "websiteUrl": "https://www.dell.com",
+      "status": "active",
+      "productCount": 35,
+      "createdAt": "2024-01-01T00:00:00Z",
+      "updatedAt": "2024-01-01T00:00:00Z"
+    },
+    {
+      "id": "brand-4",
+      "name": "HP",
+      "slug": "hp",
+      "logoUrl": "/brands/hp.png",
+      "description": "Keep Reinventing",
+      "websiteUrl": "https://www.hp.com",
+      "status": "active",
+      "productCount": 40,
+      "createdAt": "2024-01-01T00:00:00Z",
+      "updatedAt": "2024-01-01T00:00:00Z"
+    },
+    {
+      "id": "brand-5",
+      "name": "Lenovo",
+      "slug": "lenovo",
+      "logoUrl": "/brands/lenovo.png",
+      "description": "Smarter Technology for All",
+      "websiteUrl": "https://www.lenovo.com",
+      "status": "active",
+      "productCount": 38,
+      "createdAt": "2024-01-01T00:00:00Z",
+      "updatedAt": "2024-01-01T00:00:00Z"
+    },
+    {
+      "id": "brand-6",
+      "name": "MSI",
+      "slug": "msi",
+      "logoUrl": "/brands/msi.png",
+      "description": "True Gaming",
+      "websiteUrl": "https://www.msi.com",
+      "status": "active",
+      "productCount": 30,
+      "createdAt": "2024-01-01T00:00:00Z",
+      "updatedAt": "2024-01-01T00:00:00Z"
+    },
+    {
+      "id": "brand-7",
+      "name": "NVIDIA",
+      "slug": "nvidia",
+      "logoUrl": "/brands/nvidia.png",
+      "description": "The Way It's Meant to Be Played",
+      "websiteUrl": "https://www.nvidia.com",
+      "status": "active",
+      "productCount": 15,
+      "createdAt": "2024-01-01T00:00:00Z",
+      "updatedAt": "2024-01-01T00:00:00Z"
+    },
+    {
+      "id": "brand-8",
+      "name": "AMD",
+      "slug": "amd",
+      "logoUrl": "/brands/amd.png",
+      "description": "Together We Advance",
+      "websiteUrl": "https://www.amd.com",
+      "status": "active",
+      "productCount": 20,
+      "createdAt": "2024-01-01T00:00:00Z",
+      "updatedAt": "2024-01-01T00:00:00Z"
+    },
+    {
+      "id": "brand-9",
+      "name": "Intel",
+      "slug": "intel",
+      "logoUrl": "/brands/intel.png",
+      "description": "Intel Inside",
+      "websiteUrl": "https://www.intel.com",
+      "status": "active",
+      "productCount": 18,
+      "createdAt": "2024-01-01T00:00:00Z",
+      "updatedAt": "2024-01-01T00:00:00Z"
+    },
+    {
+      "id": "brand-10",
+      "name": "Samsung",
+      "slug": "samsung",
+      "logoUrl": "/brands/samsung.png",
+      "description": "Do What You Can't",
+      "websiteUrl": "https://www.samsung.com",
+      "status": "active",
+      "productCount": 25,
+      "createdAt": "2024-01-01T00:00:00Z",
+      "updatedAt": "2024-01-01T00:00:00Z"
+    },
+    {
+      "name": "XBOX",
+      "description": "Xbox",
+      "websiteUrl": "",
+      "status": "active",
+      "id": "brand-1766883205742-5aggb35h8",
+      "slug": "xbox",
+      "productCount": 0,
+      "createdAt": "2025-12-28T00:53:25.742Z",
+      "updatedAt": "2025-12-28T00:53:25.742Z"
+    },
+    {
+      "name": "Samsung Galaxy S- Series",
+      "description": "Samsung",
+      "websiteUrl": "",
+      "status": "active",
+      "id": "brand-1766885140182-8tkg8gh66",
+      "slug": "samsung-galaxy-s-series",
+      "productCount": 0,
+      "createdAt": "2025-12-28T01:25:40.182Z",
+      "updatedAt": "2025-12-28T01:25:56.459Z"
+    }
+  ]
+}
